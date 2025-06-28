@@ -143,5 +143,5 @@ PowerPoint
 ## 📬 Contact
 
 Made with ❤️ by **Crystal Andrea Dsouza**\
-Let’s [connect on LinkedIn](https://www.linkedin.com/in/crystalandreadsouza/) and talk dashboards!
+Let’s [connect on LinkedIn](https://www.linkedin.com/in/crystal-andrea-dsouza-641196286/) and talk dashboards!
 
