@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/0d886a80-6fa7-4cae-8a5c-0433f8652754)
+
 # 📊 LinkedIn Data Analytics Dashboard – Power BI Project
 
 Welcome to my Power BI project where I analyzed my personal LinkedIn activity using data exported directly from my profile. This dashboard offers insights into engagements, followers, messaging, invitations, and connections — all visualized through a custom-designed and interactive layout.
